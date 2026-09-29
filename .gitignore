@@ -1,0 +1,16 @@
+# Virtual environment (every computer creates its own)
+venv/
+.venv/
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Secret keys and settings (never upload these)
+.env
+
+# Editor and system files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
